@@ -1,0 +1,168 @@
+.main1{
+    border-bottom: 3px solid white;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.main{ background-color: #9b1e2c;
+
+}
+
+.main2{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.main2:hover{
+    border-bottom: 3px solid white;
+}
+
+.con{width: 150px;
+    height: 70px;
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+
+}
+.con:hover{
+    background-color: white;
+}
+/* secc22 */
+.sec2{width: 100%;
+}
+.mn1{
+    text-align: center;
+    color: white;
+    font-size: 100px;
+    margin-top: -300px;
+}
+.mn2{
+    font-size: 30px;
+    align-items: center;
+    text-align: center;
+    color: white;
+    
+}
+
+/* sec3 */
+.contmain{
+    margin-left: 100px;
+    
+
+}
+.main4{
+    margin-top: -300px;
+    color: white;
+}
+.cont{ 
+    margin-left: 80px;
+    width: 300px;
+    height: 70px;
+    background-color: #9b1e2c;
+    color: white;
+    border-radius: 7px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+
+}
+.images{
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+.img3>h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+    color: #9b1e2c;
+    font-size: 70px;
+
+}
+.img3>p{
+    font-size: 22px;
+    line-height: 45px;
+    font-weight: 300;
+
+    
+}
+/* galleryyyy */
+#gallry{
+    color: #9b1e2c;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 700;
+}
+.img6{
+    width: 300px;
+    height: 350px;
+    margin-top: 50px;
+}
+#demo{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 60px;
+}
+.last1{
+    color: #9b1e2c;
+    font-size: 80px;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 30px;
+
+}
+.las{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.fi{
+    margin-left: 70px;
+    width: 400px;
+    height: 250px;
+}
+.secd{ 
+    margin-left: 700px;
+    margin-top: 100px;
+    width: 50%;
+    
+}
+.hi{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+}
+.by{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: 700;
+}
+.lit{
+    display: flex;
+    
+    
+}
+.lit1{
+    text-align: center;
+    margin-left: 600px;
+    font-size: 30px;
+    color: #9b1e2c;
+
+}
+.lit2{
+    font-size: 30px;
+    color: #9b1e2c;
+    margin-left: 20px;
+
+
+}
+.thir{
+    background-color: #9b1e2c;
+color: white;
+text-align: center;
+font-size: 30px;
+padding: 50px;
+margin-top: 30px;
+}
+
+
